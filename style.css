@@ -1,0 +1,30 @@
+
+body  { 
+    margin: 0;
+    padding: 0;
+}
+cabecalho {
+    background-color: blue;
+    color:white;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24 px 0;
+}
+cabecalho-imagem {
+    width: 20%;
+}
+cabecalho-lista-item {
+    display: inline-block;
+    margin: 0 16 px
+    font-size: 24 px;
+}
+escola-imagem [
+    width: 25%
+]
+escola[
+    backggrand-imagem:linear-gradient;
+    color:white;
+    display:flex;
+    justfly
+]
